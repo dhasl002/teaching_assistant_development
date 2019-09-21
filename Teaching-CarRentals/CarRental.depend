@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1519585649 source:c:\users\dhaslam\desktop\carrental\customer.cpp
+	<fstream>
+	<iostream>
+	"customer.h"
+
+1519585416 c:\users\dhaslam\desktop\carrental\customer.h
+
+1519585514 source:c:\users\dhaslam\desktop\carrental\main.cpp
+	<iostream>
+	<fstream>
+	"staff.h"
+	"customer.h"
+
+1519585416 c:\users\dhaslam\desktop\carrental\staff.h
+
+1519585704 source:c:\users\dhaslam\desktop\carrental\staff.cpp
+	<fstream>
+	<iostream>
+	"staff.h"
+

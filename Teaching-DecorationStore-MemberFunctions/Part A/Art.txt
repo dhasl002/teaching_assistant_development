@@ -1,0 +1,13 @@
+12
+WaterColorPainting 25.95 20 07:02:2015 20:20:1
+AcrylicPainting 10.22 89 06:15:2014 12:14:1
+Photo 2.50 4 06:25:2017 10:10:1
+LatexPainting 22.49 11 08:29:2015 18:13:1
+PencilDrawing 5.25 56 05:01:2010 12:10:1
+ClaySculpture 20.25 16 04:19:2011 12:12:3
+GlassSculpture 15.40 40 09:05:2002 4:18:15
+PlasticSculpture 2.96 22 05:20:2010 10:10:10
+WoodenSculpture 27.89 9 03:11:2016 14:12:4
+MetalSculpture 14.65 1 06:24:2013 18:15:7
+ConcreteSculpture 3.69 0 03:29:2016 19:28:4
+MarbleSculpture 29.99 16 06:15:2013 13:20:7

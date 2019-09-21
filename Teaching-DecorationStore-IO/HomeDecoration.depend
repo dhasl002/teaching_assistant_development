@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516721257 source:c:\users\dhaslam\documents\github\teaching-decorationstore-io\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

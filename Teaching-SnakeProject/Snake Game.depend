@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1511825026 source:c:\users\dhaslam\desktop\snake game\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	<random>
+	<math.h>
+
+1511825026 source:z:\a5 snake\solution\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	<random>
+	<math.h>
+
+1512341352 source:c:\users\dhaslam\desktop\a5 snake\a5 snake\solution\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	<random>
+	<math.h>
+
+1512670422 source:c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	"food.h"
+	"Board.h"
+	"snake.h"
+	"orderedPair.h"
+
+1512670404 source:c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1512666614 c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\include\board.h
+	<vector>
+	"snake.h"
+	"food.h"
+
+1512607075 source:c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\src\orderedpair.cpp
+	"orderedPair.h"
+	<math.h>
+
+1512607050 c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\include\orderedpair.h
+
+1512670516 source:c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\src\snake.cpp
+	"snake.h"
+	"orderedPair.h"
+	"food.h"
+	<math.h>
+	<stdlib.h>
+	<random>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1512670464 c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\include\snake.h
+	"orderedPair.h"
+	"food.h"
+	<vector>
+	<string>
+
+1512664775 source:c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\src\food.cpp
+	"food.h"
+	<random>
+	"snake.h"
+	<vector>
+
+1512664663 c:\users\dhaslam\desktop\snakefinalproject\a5 snake\solution\include\food.h
+	"orderedPair.h"
+	<vector>
+	"snake.h"
+	"Board.h"
+	"snake.h"
+
+1512748506 source:z:\teaching-snakeproject\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	"food.h"
+	"Board.h"
+	"snake.h"
+	"orderedPair.h"
+
+1512664663 z:\teaching-snakeproject\include\food.h
+	"orderedPair.h"
+	<vector>
+	"snake.h"
+	"Board.h"
+	"snake.h"
+
+1512607050 z:\teaching-snakeproject\include\orderedpair.h
+
+1512670464 z:\teaching-snakeproject\include\snake.h
+	"orderedPair.h"
+	"food.h"
+	<vector>
+	<string>
+
+1512748506 z:\teaching-snakeproject\include\board.h
+	<vector>
+	"snake.h"
+	"food.h"
+
+1512670404 source:z:\teaching-snakeproject\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1512748506 source:z:\teaching-snakeproject\src\food.cpp
+	"food.h"
+	<random>
+	"snake.h"
+	<vector>
+
+1512607075 source:z:\teaching-snakeproject\src\orderedpair.cpp
+	"orderedPair.h"
+	<math.h>
+
+1512748506 source:z:\teaching-snakeproject\src\snake.cpp
+	"snake.h"
+	"orderedPair.h"
+	"food.h"
+	<math.h>
+	<stdlib.h>
+	<random>
+	<iostream>
+	<conio.h>
+	<windows.h>
+

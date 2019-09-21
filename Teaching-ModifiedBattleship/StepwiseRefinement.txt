@@ -1,0 +1,2052 @@
+/* Play Game
+
+/* Play Game
+/** Human places ships
+/** Computer places ships
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/** Computer places ships
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/** Computer places ships
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/** Computer places ships
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ship
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/******* Give human a point
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/******* Give human a point
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/******* Give computer a point
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+/* Play Game
+/** Human places ships
+/*** Human selects first coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of first ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that coordinates make up valid ships
+/***** If Coordinates do not make up valid ships
+/****** Have human pick both coordinates again
+/*** Human selects first coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/*** Human selects second coordinate of second ship
+/**** Check that coordinates are in grid
+/***** If Coordinates are not on grid
+/****** Have human pick coordinate again
+/**** Check that ships are not on top of each other
+/***** If ships are on top of each other
+/****** Have player pick coordinates of second ship again
+/** Computer places ships
+/*** Computer selects first coordinate of first ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of first ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects first coordinate of second ship
+/**** Randomly generate coordinate
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/*** Computer selects second coordinate of second ship
+/**** Randomly generate direction to place end of ship
+/**** Check that generated coordinate is valid
+/***** If generated coordinate is not valid
+/****** Have computer pick coordinates again
+/** Players attack
+/*** Human's turn
+/**** Human selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/******* Give human a point
+/*** Computer's turn
+/**** Computer selects coordinate to attack
+/***** Check if coordinate is a "hit"
+/****** If coordinate is a hit
+/******* Give computer a point
+/******* Display board with updated ships
+/** Check if Game is over
+/*** If Human has hit opponent 4 times
+/**** Announce that human has won
+/**** terminate game
+/*** If Computer has hit opponent 4 times
+/**** announce that computer has won
+/**** terminate game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

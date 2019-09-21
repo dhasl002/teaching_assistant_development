@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1510768330 source:c:\users\dhaslam.cs\desktop\arenaproject\bankaccount.cpp
+	"bankAccount.h"
+
+1510768330 c:\users\dhaslam.cs\desktop\arenaproject\bankaccount.h
+
+1510768330 source:c:\users\dhaslam.cs\desktop\arenaproject\concessionstand.cpp
+	"concessionStand.h"
+
+1510768330 c:\users\dhaslam.cs\desktop\arenaproject\concessionstand.h
+
+1510768736 source:c:\users\dhaslam.cs\desktop\arenaproject\date.cpp
+	"date.h"
+
+1510768736 c:\users\dhaslam.cs\desktop\arenaproject\date.h
+
+1510844886 source:c:\users\dhaslam.cs\desktop\arenaproject\main.cpp
+	<iostream>
+	<vector>
+	"ticket.h"
+	"parking.h"
+	"staff.h"
+
+1510777825 c:\users\dhaslam.cs\desktop\arenaproject\ticket.h
+	"date.h"
+	<vector>
+
+1510783315 source:c:\users\dhaslam.cs\desktop\arenaproject\parking.cpp
+	"parking.h"
+	<iostream>
+
+1510778946 c:\users\dhaslam.cs\desktop\arenaproject\parking.h
+	<vector>
+
+1510768330 source:c:\users\dhaslam.cs\desktop\arenaproject\schedule.cpp
+	"schedule.h"
+
+1510769088 c:\users\dhaslam.cs\desktop\arenaproject\schedule.h
+	"date.h"
+	<string>
+
+1510768330 source:c:\users\dhaslam.cs\desktop\arenaproject\staff.cpp
+	"staff.h"
+
+1510844886 c:\users\dhaslam.cs\desktop\arenaproject\staff.h
+	<string>
+	<vector>
+
+1510778560 source:c:\users\dhaslam.cs\desktop\arenaproject\ticket.cpp
+	"ticket.h"
+	<vector>
+	<iostream>
+
+1510768330 source:c:\users\dhaslam\desktop\arenaproject\bankaccount.cpp
+	"bankAccount.h"
+
+1510768330 c:\users\dhaslam\desktop\arenaproject\bankaccount.h
+
+1510768736 source:c:\users\dhaslam\desktop\arenaproject\date.cpp
+	"date.h"
+
+1510768736 c:\users\dhaslam\desktop\arenaproject\date.h
+
+1510783315 source:c:\users\dhaslam\desktop\arenaproject\parking.cpp
+	"parking.h"
+	<iostream>
+
+1510778946 c:\users\dhaslam\desktop\arenaproject\parking.h
+	<vector>
+
+1511114412 source:c:\users\dhaslam\desktop\arenaproject\schedule.cpp
+	"schedule.h"
+
+1511114204 c:\users\dhaslam\desktop\arenaproject\schedule.h
+	"date.h"
+	<string>
+	<vector>
+
+1510844924 source:c:\users\dhaslam\desktop\arenaproject\staff.cpp
+	<iostream>
+	"staff.h"
+
+1510844886 c:\users\dhaslam\desktop\arenaproject\staff.h
+	<string>
+	<vector>
+
+1510778560 source:c:\users\dhaslam\desktop\arenaproject\ticket.cpp
+	"ticket.h"
+	<vector>
+	<iostream>
+
+1510777825 c:\users\dhaslam\desktop\arenaproject\ticket.h
+	"date.h"
+	<vector>
+
+1511114031 source:c:\users\dhaslam\desktop\arenaproject\concessionstand.cpp
+	"concessionStand.h"
+
+1511114023 c:\users\dhaslam\desktop\arenaproject\concessionstand.h
+
+1511114110 source:c:\users\dhaslam\desktop\arenaproject\main.cpp
+	<iostream>
+	<vector>
+	"ticket.h"
+	"parking.h"
+	"staff.h"
+	"schedule.h"
+	"concessionStand.h"
+
+1511218209 source:z:\arenaproject\bankaccount.cpp
+	"bankAccount.h"
+
+1511217653 z:\arenaproject\bankaccount.h
+	"ticket.h"
+	<vector>
+
+1511207395 source:z:\arenaproject\date.cpp
+	"date.h"
+
+1510768736 z:\arenaproject\date.h
+
+1511217059 source:z:\arenaproject\parking.cpp
+	"parking.h"
+	<iostream>
+
+1511215383 z:\arenaproject\parking.h
+	<vector>
+	"bankAccount.h"
+
+1511218798 source:z:\arenaproject\schedule.cpp
+	"schedule.h"
+	<vector>
+	<iostream>
+
+1511214905 z:\arenaproject\schedule.h
+	"date.h"
+	"ticket.h"
+	"bankAccount.h"
+	<string>
+	<vector>
+
+1511217274 source:z:\arenaproject\staff.cpp
+	<iostream>
+	"staff.h"
+
+1511215327 z:\arenaproject\staff.h
+	<string>
+	<vector>
+	<iostream>
+
+1511219203 source:z:\arenaproject\ticket.cpp
+	"ticket.h"
+	<vector>
+	<iostream>
+	"bankAccount.h"
+
+1511219714 z:\arenaproject\ticket.h
+	"date.h"
+	<vector>
+	<iostream>
+	"bankAccount.h"
+
+1511217653 source:z:\arenaproject\concessionstand.cpp
+	"concessionStand.h"
+	<iostream>
+
+1511216339 z:\arenaproject\concessionstand.h
+	<vector>
+	"bankAccount.h"
+
+1511218798 source:z:\arenaproject\main.cpp
+	<iostream>
+	<vector>
+	"ticket.h"
+	"parking.h"
+	"staff.h"
+	"schedule.h"
+	"concessionStand.h"
+	"bankAccount.h"
+

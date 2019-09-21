@@ -1,0 +1,15 @@
+14
+Table brown 10 01:16:2000 100.00
+Chair black 20 05:14:2006 25.20
+Couch brown 5 10:21:2015 325.50
+LoveSeat yellow 3 09:08:2011 145.70
+RockingChair red 15 06:03:2013 45.60
+Desk brown 5 11:10:2004 50.00
+Lamp blue 8 12:06:2014 10.95
+Light grey 10 06:12:2003 11.00
+Bed red 7 07:18:2006 150.00
+HighChair white 11 08:22:2007 25.60
+FootRest brown 5 08:23:2015 15.95
+CoffeeTable white 0 06:25:2016 57.10
+BedsideTable black 2 04:23:2015 45.23
+Stool brown 25 08:26:2014 20.00

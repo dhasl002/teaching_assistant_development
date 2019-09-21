@@ -1,0 +1,11 @@
+10
+WoolRug white 10 24.20
+NaturalFiberRug red 21 18.65
+Drapes brown 15 10.60
+DoorMat green 50 21.20
+TableMat red 60 5.95
+CottonRug white 10 14.26
+SyntheticRug blue 15 18.10
+PlaceMat brown 26 2.55
+ClothNapkins white 18 3.05
+Curtains grey 28 12.32

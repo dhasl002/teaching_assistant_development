@@ -1,0 +1,188 @@
+/* Play Game
+/** Establish difficulty
+/** Create the pattern
+/** Begin Guessing
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/** Begin Guessing
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/*** Compare the guesses to true pattern
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/****** Increment Perfect Guesses Variable
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/****** Increment Perfect Guesses Variable
+/**** Nested Loop over data structure
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/****** Increment Perfect Guesses Variable
+/**** Nested Loop over data structure
+/***** If a number in the guessed sequence appears in the main sequence
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/****** Increment Perfect Guesses Variable
+/**** Nested Loop over data structure
+/***** If a number in the guessed sequence appears in the main sequence
+/****** Increment non Perfect Guesses Variable
+/*** Print statistics
+
+/* Play Game
+/** Establish difficulty
+/*** Ask the user to input a number 1-10
+/*** Print pattern length
+/*** Print range of pattern
+/** Create the pattern
+/*** Generate numbers randomly
+/*** Place numbers in data structure
+/** Begin Guessing
+/*** Ask user to enter their guesses
+/**** Read in input to data structure
+/*** Compare the guesses to true pattern
+/**** Loop over true pattern
+/***** If the guessed and true pattern are equal at a position
+/****** Increment Perfect Guesses Variable
+/**** Nested Loop over data structure
+/***** If a number in the guessed sequence appears in the main sequence
+/****** Increment non Perfect Guesses Variable
+/*** Print statistics

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522792251 source:c:\users\dhaslam\desktop\raspberrypi\account.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<stdlib.h>
+	"account.h"
+
+1522791489 c:\users\dhaslam\desktop\raspberrypi\account.h
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
+1522792261 source:c:\users\dhaslam\desktop\raspberrypi\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	"account.h"
+

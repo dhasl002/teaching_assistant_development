@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1517933710 source:c:\users\dhaslam\desktop\restaurant-a4\restaurant\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"store.h"
+
+1517933775 c:\users\dhaslam\desktop\restaurant-a4\restaurant\store.h
+	<string>
+
+1517933824 source:c:\users\dhaslam\desktop\restaurant-a4\restaurant\store.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+	"store.h"
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\dhaslam\desktop\pyramidscheme\main.cpp
+	<iostream>
+
+1507047849 source:c:\users\dhaslam\desktop\pyramidscheme\customers.cpp
+	<stdio.h>
+	"Customers.h"
+
+1507047849 c:\users\dhaslam\desktop\pyramidscheme\customers.h
+	<stdio.h>
+
+1507049385 source:c:\users\dhaslam\desktop\pyramidscheme\regionalmanager.cpp
+	<stdio.h>
+	"RegionalManager.h"
+	"SalesPerson.h"
+
+1507050405 c:\users\dhaslam\desktop\pyramidscheme\regionalmanager.h
+	<stdio.h>
+	"SalesPerson.h"
+
+1507050405 c:\users\dhaslam\desktop\pyramidscheme\salesperson.h
+	"RegionalManager.h"
+	"Customers.h"
+	<stdio.h>
+
+1507047990 source:c:\users\dhaslam\desktop\pyramidscheme\salesperson.cpp
+	<stdio.h>
+	"RegionalManager.h"
+	"SalesPerson.h"
+	"Customers.h"
+
+1507060741 source:z:\pyramidscheme\customers.cpp
+	<stdio.h>
+	<iostream>
+	"Customers.h"
+
+1507060464 z:\pyramidscheme\customers.h
+	<stdio.h>
+
+1507060960 source:z:\pyramidscheme\main.cpp
+	<iostream>
+	"SalesPerson.h"
+	"Customers.h"
+	"RegionalManager.h"
+
+1507061444 source:z:\pyramidscheme\regionalmanager.cpp
+	<stdio.h>
+	<iostream>
+	"SalesPerson.h"
+	"RegionalManager.h"
+
+1507060960 z:\pyramidscheme\regionalmanager.h
+	<stdio.h>
+	"SalesPerson.h"
+
+1507060463 z:\pyramidscheme\salesperson.h
+	"RegionalManager.h"
+	"Customers.h"
+	<stdio.h>
+
+1507061460 source:z:\pyramidscheme\salesperson.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	"SalesPerson.h"
+	"RegionalManager.h"
+	"Customers.h"
+

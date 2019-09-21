@@ -1,0 +1,1459 @@
+//Play game
+
+//Play Game
+//*Remove 4 pegs
+//*Jump two pegs
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//**Remove Peg
+//**Request position of peg2 to remove
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//**Remove Peg
+//**Request position of peg2 to remove
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//**Remove Peg
+//**Request position of peg2 to remove
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//**Request position of peg2 to remove
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//**Remove Peg
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+//**Request second jump position
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//****If data structure in given positoin is true
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request second jump position
+//***Check that the user does not want to quit
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//****If data structure in given positoin is true
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request second jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//****If data structure in given positoin is true
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request second jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+//Play Game
+//*Remove 4 pegs
+//**Request position of peg1 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//*****Exit loop
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg2 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg3 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//**Request position of peg4 to remove
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//**Remove Peg
+//***Call remove Peg function
+//*Jump two pegs
+//**Request peg to move
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that peg in this positon exists
+//****If data structure in given postion is false
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request first jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//****If data structure in given positoin is true
+//*****Tell user that this is an invalid selection
+//*****Ask user to try again
+//**Request second jump position
+//***Check that the user does not want to quit
+//****If user enters -1 -1
+//*****Set gameOver to true
+//***Check that the selection was valid
+//****Call validPegSelection function
+//***Check that that new positon is empty
+//****If data structure in given positoin is true
+//*****Tell user that this is an invalid selection
+//**Move peg
+//***Call movePeg function
+//**Remove Jumped peg
+//***Call removePeg function
+
+
+
+
+
+
+

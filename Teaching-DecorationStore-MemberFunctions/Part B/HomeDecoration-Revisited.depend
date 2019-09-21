@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1517267766 source:c:\users\dhaslam\desktop\homedecoration-revisited\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"store.h"
+
+1517268032 c:\users\dhaslam\desktop\homedecoration-revisited\store.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
+1517266925 source:c:\users\dhaslam\desktop\homedecoration-revisited\store.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+	"Store.h"
+

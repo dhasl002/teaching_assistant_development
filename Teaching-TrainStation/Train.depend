@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1519922781 source:z:\train\main.cpp
+	<iostream>
+	"passengers.h"
+	"staff.h"
+
+1519919991 z:\train\passengers.h
+	<stdlib.h>
+
+1519920254 z:\train\staff.h
+	<stdio.h>
+
+1519922543 source:z:\train\passengers.cpp
+	<fstream>
+	"passengers.h"
+
+1519921708 source:z:\train\staff.cpp
+	"Staff.h"
+

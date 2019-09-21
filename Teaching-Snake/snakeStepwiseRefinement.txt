@@ -1,0 +1,142 @@
+/*Play Game
+/**Place food in random location
+/**Check if food has been eaten
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/**Check if food has been eaten
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/**Check if food has been eaten
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/****Remove food from board
+/**Check if collision has happened
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/****Remove food from board
+/**Check if collision has happened
+/***If head of snake is on top of board edge or itself
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/****Remove food from board
+/**Check if collision has happened
+/***If head of snake is on top of board edge or itself
+/****End Game
+/**Update board
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/****Remove food from board
+/**Check if collision has happened
+/***If head of snake is on top of board edge or itself
+/****End Game
+/**Update board
+/***Adjust data structures
+/**Wait 50ms
+/**Clear Board
+/**Get User Input
+
+/*Play Game
+/**Place food in random location
+/***Randomly Generate X location
+/***Randomly Generate Y location
+/***Check that Random Location is not on top of snake
+/****If Random Location is on top of snake generate new location
+/**Check if food has been eaten
+/***If head of snake is on top of food
+/****Remove food from board
+/**Check if collision has happened
+/***If head of snake is on top of board edge or itself
+/****End Game
+/**Update board
+/***Adjust data structures
+/**Wait 50ms
+/**Clear Board
+/**Get User Input

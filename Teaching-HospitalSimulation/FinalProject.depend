@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1508799177 source:c:\users\dhaslam\desktop\finalproject\main.cpp
+	<iostream>
+	"diagnosis.h"
+	"patient.h"
+	"doctor.h"
+	"slot.h"
+	"appointment.h"
+	"record.h"
+
+1508798406 source:c:\users\dhaslam\desktop\finalproject\doctor.cpp
+	"appointment.h"
+	"doctor.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508798007 c:\users\dhaslam\desktop\finalproject\doctor.h
+	"appointment.h"
+	<stdio.h>
+
+1508191292 c:\users\dhaslam\desktop\finalproject\officehours.h
+	<stdio.h>
+
+1508798514 source:c:\users\dhaslam\desktop\finalproject\patient.cpp
+	"patient.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508798514 c:\users\dhaslam\desktop\finalproject\patient.h
+	<stdio.h>
+	"doctor.h"
+
+1508795605 source:c:\users\dhaslam\desktop\finalproject\date_time.cpp
+	"date_time.h"
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1508795378 c:\users\dhaslam\desktop\finalproject\date_time.h
+
+1508799224 source:c:\users\dhaslam\desktop\finalproject\slot.cpp
+	"slot.h"
+	"doctor.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508799233 c:\users\dhaslam\desktop\finalproject\slot.h
+	<stdio.h>
+	"doctor.h"
+	"date_time.h"
+
+1508797895 source:c:\users\dhaslam\desktop\finalproject\appointment.cpp
+	"appointment.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508797958 c:\users\dhaslam\desktop\finalproject\appointment.h
+	<stdio.h>
+	"date_time.h"
+	"slot.h"
+
+1508798880 source:c:\users\dhaslam\desktop\finalproject\record.cpp
+	"record.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508798852 c:\users\dhaslam\desktop\finalproject\record.h
+	"diagnosis.h"
+
+1508795189 c:\users\dhaslam\desktop\finalproject\diagnosis.h
+	<stdio.h>
+
+1508795329 source:c:\users\dhaslam\desktop\finalproject\diagnosis.cpp
+	"diagnosis.h"
+	<stdio.h>
+	<stdlib.h>
+

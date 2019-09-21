@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1505232745 source:c:\users\dhaslam\desktop\trickytriangle\main.cpp
+	<iostream>
+	<cmath>
+
+1505229145 source:z:\trickytriangle\main.cpp
+	<iostream>
+	<cmath>
+

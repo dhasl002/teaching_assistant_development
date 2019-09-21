@@ -1,0 +1,431 @@
+//Play Checkers
+
+//Play Checkers
+//*Red Player's Turn
+//*Check if Red Player has won
+//*Black Player's Turn
+//*Check if Black Player has won
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//*Black Player's Turn
+//*Check if Black Player has won
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//*Check if Black Player has won
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//** Ask Black Player where to move piece
+//*Check if Black Player has won
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask BlackPlayer to select a piece
+//** Ask Black Player where to move piece
+//*Check if Black Player has won
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask BlackPlayer to select a piece
+//** Ask Black Player where to move piece
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//** Ask Red Player where to move piece
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask BlackPlayer to select a piece
+//** Ask Black Player where to move piece
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//** If move is invalid
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//** Ask Black Player where to move piece
+//** If move is invalid
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//** Ask Black Player where to move piece
+//** If move is invalid
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//** Ask Black Player where to move piece
+//** If move is invalid
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//** If move is invalid
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Red Player Array to reflect the moved piece
+//**** Give Red Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Red Player Array to reflect the moved piece
+//**** Give Red Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//**** Have Blavck Player pick again
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Red Player Array to reflect the moved piece
+//**** Give Red Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//**** Have Blavck Player pick again
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Red Player Array to reflect the moved piece
+//**** Give Red Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//**** Have Blavck Player pick again
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Black Player Array to reflect the moved piece
+//**** If the moved piece is in the "king" spot for the first time
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************
+//Play Checkers
+//*Red Player's Turn
+//** Ask Red Player to select a piece
+//*** If the piece is invalid
+//**** Have Red Player pick again
+//** Ask Red Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Red Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Red Player Array to reflect the moved piece
+//**** Give Red Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Red Player to try again.
+//*Check if Red Player has won
+//** Check Amount of points Red Player has and compare it to the amount to win
+//*Black Player's Turn
+//** Ask Black Player to select a piece
+//*** If the piece is invalid
+//**** Have Blavck Player pick again
+//** Ask Black Player where to move piece
+//*** If the position to move piece is -1 -1
+//**** Pass turn
+//*** If the piece is moving one space and there is nothing obstructing it
+//**** Adjust Black Player Array to reflect the moved piece
+//***If the piece is moving 2 spaces and that there is a valid piece to jump
+//**** Adjust the Black Player Array to reflect the moved piece
+//**** Give Black Player a point
+//**** Remove the jumped piece
+//** If move is invalid
+//*** Ask Black Player to try again.
+//*Check if Black Player has won
+//** Check Amount of points Black Player has and compare it to the amount to win
+************************************************************************************

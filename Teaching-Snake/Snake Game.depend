@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511825026 source:c:\users\dhaslam\desktop\snake game\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	<random>
+	<math.h>
+

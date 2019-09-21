@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504195077 source:c:\users\dhaslam\desktop\checkers\main.cpp
+	<iostream>
+	<cmath>
+
+1504628242 source:c:\users\dhaslam\downloads\a5_checkers\a5_checkers - copy\solution\main.cpp
+	<iostream>
+	<cmath>
+
